@@ -47,6 +47,17 @@ It can help answer:
 
 ---
 
+
+## Architecture Overview
+
+<p align="center">
+  <img src="./assets\worldtree-architecture-overview.svg"
+       alt="WorldTree ecosystem architecture overview">
+</p>
+
+WorldTree does not attempt to represent every kind of state through the same abstraction.
+
+
 ## Hybrid Simulation Architecture
 
 WorldTree does not attempt to represent every kind of state through the same abstraction.
